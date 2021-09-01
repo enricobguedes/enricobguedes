@@ -1,0 +1,56 @@
+<!DOCTYPE HTML>
+
+<HTML lang="pt-br">
+	<HEAD>
+		<meta charset="utf-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1.0, shrink-to-fit=no">
+		<link rel="stylesheet" type="text/css" href="../custom/css/geral.css">
+		<link href="https://fonts.googleapis.com/css2?family=Alata&family=Kanit&display=swap" rel="stylesheet">
+	</HEAD>
+	<BODY>
+		<header>
+			<div class="gridContainer">
+				<div class="gridLogo"><img src="../imagens/logo.png" width="100px" height="100px"></div>
+				<div class="gridNome"><p id="nomeLogo">Enrico B. Guedes</p><br><p id="quoteLogo"><a id="linkLogo" href= "https://github.com/enricobguedes"> github.com/enricobguedes</a> || LinkedIn: 
+				<a id="linkLogo" href= "https://www.linkedin.com/in/enrico-b-guedes-63628a132/">Enrico B. Guedes</a></p></div>
+			</div>
+			<nav>
+				<span class="menu">
+					<ul class="listaMenu">						
+						<a id="menu1" href="home.html"><p id="letraMenu">QUEM SOU EU?</p></a>
+					</ul>
+					<ul class="listaMenu">
+						<a id="menu2" href="conhecimentos.html"><p id="letraMenu">CONHECIMENTOS?</p></a>
+					</ul>
+					<ul class="listaMenu">
+						<a id="menu3" href="contatos.html"><p id="letraMenu">QUER ME CONTATAR?</p></a>
+					</ul>
+				</span>
+			</nav>
+		</header>
+		<main>
+			<!--<div class="sideBoxEsquerda">
+				<p id="letraGeral">exemplo<br><br><br>exemplo</p>
+			</div> -->	
+			<div class="artigoPrincipal">
+				<p id="tituloContatos"><b>Como pode me contatar?</b></p>
+				<p id="letraGeral">Estou disponível para ser contatado através do LinkedIn, github e e-mail (abaixo).</p>
+				<br>
+				<p id="letraGeral">Email: enricobguedes@gmail.com</p>
+				<p id="letraGeral">Disponibilizo também um formulário que será redirecionado para uma base de dados a qual eu consulto diariamente. <a id="linkLogo" href="jsPhp.html"> (Como fiz a conexão e criação da database)</a></p>
+				<form action="../custom/actionPage.php" method="POST">
+					<label id="nomeLbl" for="nome">Nome: </label><br>
+					<input type="text" size="20" maxlength="20" id="nome" name="nome" required><br>
+					<label id="nomeLbl" for="email">E-mail: </label><br>
+					<input type="email" size="40" maxlength="40" id="email" name="email" required><br>
+					<label id="nomeLbl" for="mensagem">Quer deixar uma mensagem?</label><br>
+					<input type="text" size="100" maxlength="100" id="mensagem" name="mensagem"><p id="letraGeral">*Até 100 caracteres!*</p><br><br>
+					<input type="submit" id="enviar" name="enviar">
+				</form>
+			</div>
+			<!--<div class="sideBoxDireita">
+				<p id="letraGeral">exemplo<br><br><br>exemplo</p>
+			</div>	-->
+		</main>
+	</BODY>
+</HTML>
