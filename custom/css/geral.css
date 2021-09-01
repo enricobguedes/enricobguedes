@@ -205,7 +205,9 @@ main {
 }
 
 .graficoConhecimentos {
-	display: inline-block;
+	display: block;
+	text-align: center;
+	padding-left: 28%;
 }
 
 
