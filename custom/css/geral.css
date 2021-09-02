@@ -135,7 +135,7 @@ nav {
 	min-height: 50%;
 	max-width: 100%;
 	min-width: 50%;
-	margin-left: 8%;
+	margin-left: 12%;
 	display:block;
 	text-align: center;
 }
@@ -161,7 +161,7 @@ span {
 	background-color: #454e21;
 	font-family: 'Kanit', sans-serif;
 	text-align: center;
-	width:auto;
+	width: auto;
 	max-width: 100%;
 }
 
