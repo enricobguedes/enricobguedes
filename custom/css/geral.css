@@ -225,10 +225,21 @@ main {
 
 /* tratamento de disposição de imagem em telas pequenas */
 
-@media screen and (max-width: 1060px) {
-    #header { width:67%; }  
-}
-
-@media screen and (max-width: 768px) {
-    #header { width:100%; }
+@media (orientation:portrait) and (max-width: 720px) {
+	nav, span {
+		display: none;
+	}
+    nav {
+	display: grid;
+	grid-template-columns: 100%;
+	grid-template-rows: 33.3%, 33.3%, 33.3%;
+	background-color:black;
+	height:45px;
+	max-width: 1200px;
+	text-align: center;
+	color:#a38a51;
+	border-width: 2px;
+	border-style: solid;
+	white-space: nowrap;
+	}  
 }
