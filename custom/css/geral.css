@@ -117,10 +117,11 @@ _verdeEscuro{
 	margin-left: 6%;
 }
 #email {
-	width: 20%;
+	width: 45%;
 }
 #mensagem {
 	width: 45%;
+	height: 50px;
 }
 
 
@@ -135,7 +136,7 @@ nav {
 	min-height: 50%;
 	max-width: 100%;
 	min-width: 50%;
-	margin-left: 12%;
+	margin-left: 9%;
 	display:block;
 	text-align: center;
 }
@@ -152,6 +153,9 @@ span {
 	border-width: 2px;
 	border-style: solid;
 	white-space: nowrap;
+	position: -webkit-sticky;
+	position: sticky;
+	top: 0;
 }
 
 .listaMenu {
@@ -207,7 +211,7 @@ main {
 #graficoConhecimentos {
 	display: block;
 	text-align: center;
-	padding-left: 28%;
+	padding-left: 42%;
 	margin: 0px;
 }
 
