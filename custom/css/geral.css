@@ -157,7 +157,7 @@ span {
 	top: 0;
 }
 
-.listaMenu {
+.listaMenuHome, .listaMenuConhecimentos, .listaMenuContato {
 	height: 43px;
 	margin: 1px 1px;
 	padding: 0px;
@@ -227,3 +227,16 @@ main {
 
 	}*/
 
+
+@media screen and (max-width: 720px) {
+	nav {
+		margin:0 ;
+	}
+	span {
+		grid-template-columns: 27.5% 45% 27.5%;
+	}
+	#graficoConhecimentos {
+		padding-left: 20%;
+		text-align: left;
+	}
+}
