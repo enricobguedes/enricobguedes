@@ -11,6 +11,7 @@
 
 - 💼 Fullstack Dev @ IBM.
 - 🌱 I'm always exploring weird stuff to work on.
+- 🎮 I really enjoy tinkering and modding games.
 
 ## Skills
 
