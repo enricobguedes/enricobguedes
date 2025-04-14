@@ -42,7 +42,6 @@
 
 ![Appium](https://img.shields.io/badge/-Appium-333333?style=flat&logo=appium)
 ![Selenium](https://img.shields.io/badge/-Selenium-333333?style=flat&logo=selenium)
-![DBeaver](https://img.shields.io/badge/-DBeaver-333333?style=flat&logo=dbeaver)
 
 **DevOps**
 
