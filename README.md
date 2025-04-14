@@ -35,6 +35,14 @@
 ![Insomnia](https://img.shields.io/badge/-Insomnia-333333?style=flat&logo=insomnia)
 ![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman)
 ![DBeaver](https://img.shields.io/badge/-DBeaver-333333?style=flat&logo=dbeaver)
+![Gradle](https://img.shields.io/badge/-Gradle-333333?style=flat&logo=gradle)
+![Maven](https://img.shields.io/badge/-Maven-333333?style=flat&logo=apachemaven)
+
+**Automation**
+
+![Appium](https://img.shields.io/badge/-Appium-333333?style=flat&logo=appium)
+![Selenium](https://img.shields.io/badge/-Selenium-333333?style=flat&logo=selenium)
+![DBeaver](https://img.shields.io/badge/-DBeaver-333333?style=flat&logo=dbeaver)
 
 **DevOps**
 
@@ -44,6 +52,7 @@
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-333333?style=flat&logo=kubernetes)
 ![Travis](https://img.shields.io/badge/-Travis-333333?style=flat&logo=travis)
 ![Jenkins](https://img.shields.io/badge/-Jenkins-333333?style=flat&logo=jenkins)
+![redhatopenshift](https://img.shields.io/badge/-OpenShift-333333?style=flat&logo=redhatopenshift)
 
 **Tools**
 
